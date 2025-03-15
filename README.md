@@ -1,16 +1,10 @@
 # 👋 Hey, I’m Eyuel!  
 
-🚀 **Building apps, AI, and dreaming of a next-gen OS.**  
-💡 **Into web, mobile, AI, and automation.**  
-📱 **Currently working on a React Native app.**  
-🎯 **Learning AI & backend development.**  
-🤝 **Open to collabs on cool tech projects.**  
-
-Let’s connect! 🚀  
-
-# 💫 About Me:
-📌 I’m currently working on<br>A React Native mobile app and learning AI & backend development.<br><br>🤝 I’m looking to collaborate on<br>Exciting open-source projects, especially in AI, automation, and web development.<br><br>🛠 I’m looking for help with<br>Deepening my knowledge of machine learning and backend infrastructure.<br><br>🌱 I’m currently learning<br>Advanced Python, Node.js, and MongoDB for scalable applications.<br><br>💬 Ask me about<br>Web development, AI, and anything related to tech, automation, or innovation!<br><br>⚡ Fun fact<br>I love creating futuristic tech concepts, and I lowkey want to build my own AI assistant. 😏
-
+🚀 **Creating apps, exploring AI, and shaping the future of tech.**  
+💡 **Passionate about web, mobile, and automation.**  
+📱 **Currently building a React Native app.**  
+🎯 **Diving deeper into AI & backend systems.**  
+🤝 **Open to collaborating on innovative projects.**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyuel-engida-77155a317/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/eul4525) 
