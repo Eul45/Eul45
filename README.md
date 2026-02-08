@@ -1,18 +1,38 @@
-# 👋 Hey, I’m Eyuel!  
+# Hi, I'm Eyuel 👋
 
-🚀 **Creating apps, exploring AI, and shaping the future of tech.**  
-💡 **Passionate about web, mobile, and automation.**  
-📱 **Currently building a React Native app.**  
-🎯 **Diving deeper into AI & backend systems.**  
-🤝 **Open to collaborating on innovative projects.**  
+📍 **Ethiopia** | 🤖 **AI & App Builder** | 🚀 **React Native & Automation Enthusiast**
 
-## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Eul_zzz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyuel-engida-77155a317/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/eul4525) 
-  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+> Experimenting & building – building mobile apps, AI-powered tools, and automation stacks while exploring the future of tech. Passionate about web, mobile, and backend systems.
+
+  **[My Portfolio & Projects](https://www.eyuel.com.et/)** – exploring React Native apps, AI projects, and experimental tools.
+
+## 🚧 Current Projects
+
+- 🤖 **[EyuX AI](https://github.com/Eul45/EyuXbeta)** – My AI-powered assistant for web, Android, and desktop with tools no standard chatbot has.
+- 🛠️ **[git-mood](https://github.com/EyuApp/git-mood)** – Command-line for developers; integrates Git + AI workflows.
+- 🌐 **[Eyux Web](https://chat.eyux.com.et/)** – Web version of my AI app with 10+ exclusive features.
+- 💻 **[EcodeX](https://ecodex-vsix.vercel.app/)** – Agentic AI for VS Code Extension. Fast responses, clean diffs, and one-click apply so you can ship without leaving your editor. 
+- 🔌 **[Firefox AI Add-on](https://github.com/Eul45/quick-dictionary-ai-explainer)** – Browser extension with AI tools; currently 15 users.
+- 💌 **[Telegram Dating Bot](https://github.com/Eul45/telegram-connect-bot)** – AI-powered matchmaker with MongoDB backend.
+- 📝 **[ZenCapture](https://zencapture.en.uptodown.com/windows)** – Fast Windows note-taking & quick capture app for your daily ideas. 48 downloads and growing.
+- ⚡ **[os-nerve](https://github.com/Eul45/os-nerve)** – Lightweight terminal dashboard that monitors your system vitals in real-time. Made for devs who live in the terminal.
+- 📱 **[ethio-helpers](https://github.com/Eul45/ethio-helpers)** – JS utility to validate & format Ethiopian mobile numbers (Ethio Telecom & Safaricom).
+
+### 🔙 Legacy Work
+- 🧩 **[Old Experiments](https://eyuapps.neocities.org/)** – Archived AI experiments, prototypes, and mini projects.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eul45&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Eul45&theme=merko&hide_border=false)<br/>
@@ -21,4 +41,45 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Eul45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 What I’m Doing
+
+- **Building AI-first tools** – Experimenting with AI apps, CLI utilities, and automation stacks.
+- **Sharing learnings** – Documenting workflows, tips, and experiments on [eyuel.com.et/blog](https://www.eyuel.com.et/blog)
+- **Rapid prototyping** – Creating full apps in days, not months.
+
+## 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [React Native AI App: From Idea to Deployment](https://www.eyuel.com.et/blog/react-native-ai-app)
+<!-- BLOG-POST-LIST:END -->
+
+## 🌐 Connect
+
+[![Telegram](https://img.shields.io/badge/-@Eul_zzz-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Eul_zzz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyuel-engida-77155a317/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/eul4525) 
+[![Portfolio](https://img.shields.io/badge/-eyuel.com.et-FF5722?style=flat-square)](https://www.eyuel.com.et)
+
+## 🏆 Recognition
+
+- Featured in **local tech newsletters & blogs**
+- Presented projects in Ethiopian developer meetups & online workshops
+- Built multiple AI apps & tools used by hundreds of users across platforms
+
+## 🎙️ Media & Talks
+
+- **[EyuX AI Demo Video](https://youtu.be/jWgqrGKBgxY?si=RQeHwHM4nkMPsG9V)** – Walkthrough of AI assistant for web and mobile
+- **[EcodeX VS Code Extension](https://youtu.be/eaP2iOjjFNw?si=adWYYHj5zF3t12OQ)** – Showing agentic AI in the editor
+
+## 🧠 Philosophy
+
+> "Build for yourself, share for the world." I create tools to solve my own problems and explore how AI can enhance productivity, prototyping, and automation.
+
+<details>
+<summary>Random Facts</summary>
+
+- Run multiple AI agents simultaneously for testing and experimentation
+- Passionate about exploring developer tools and automation workflows
+- Night owl coder
+- Love contributing to open-source projects and mentoring junior devs
+
+</details>
