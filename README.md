@@ -24,10 +24,10 @@
 - 🛠️ **[git-mood](https://github.com/EyuApp/git-mood)** – Command-line for developers; integrates Git + AI workflows.
 - 🌐 **[Eyux Web](https://chat.eyux.com.et/)** – Web version of my AI app with 10+ exclusive features.
 - 💻 **[EcodeX](https://ecodex-vsix.vercel.app/)** – Agentic AI for VS Code Extension. Fast responses, clean diffs, and one-click apply so you can ship without leaving your editor. 
-- 🔌 **[Firefox AI Add-on](https://github.com/Eul45/quick-dictionary-ai-explainer)** – Browser extension with AI tools; currently 15 users.
+- 🔌 **[Firefox AI Add-on](https://github.com/Eul45/quick-dictionary-ai-explainer)** – Quick Dictionary + AI Explainer (Firefox add-on) with tooltip lookup + Gemini chat.
 - 💌 **[Telegram Dating Bot](https://github.com/Eul45/telegram-connect-bot)** – Full-featured Telegram dating bot with profiles, matching, messaging, and monetization via Telegram Stars. Built with Node.js, Telegraf, and MongoDB.
 
-- 📝 **[ZenCapture](https://zencapture.en.uptodown.com/windows)** – Fast Windows note-taking & quick capture app for your daily ideas. 48 downloads and growing.
+- 📝 **[ZenCapture](https://zencapture.en.uptodown.com/windows)** – Fast Windows note-taking & quick capture app for your daily ideas.
 - ⚡ **[os-nerve](https://github.com/Eul45/os-nerve)** – Lightweight terminal dashboard that monitors your system vitals in real-time. Made for devs who live in the terminal.
 - 📱 **[ethio-helpers](https://github.com/Eul45/ethio-helpers)** – JS utility to validate & format Ethiopian mobile numbers (Ethio Telecom & Safaricom).
 - 🕸️ **[eyuel](https://github.com/Eul45/eyuelengida)** – Personal profile website.
