@@ -29,6 +29,7 @@
 - 📝 **[ZenCapture](https://zencapture.en.uptodown.com/windows)** – Fast Windows note-taking & quick capture app for your daily ideas. 48 downloads and growing.
 - ⚡ **[os-nerve](https://github.com/Eul45/os-nerve)** – Lightweight terminal dashboard that monitors your system vitals in real-time. Made for devs who live in the terminal.
 - 📱 **[ethio-helpers](https://github.com/Eul45/ethio-helpers)** – JS utility to validate & format Ethiopian mobile numbers (Ethio Telecom & Safaricom).
+- 🕸️ **[eyuel](https://github.com/Eul45/eyuelengida)** – Personal profile website.
 
 ### 🔙 Legacy Work
 - 🧩 **[Old Experiments](https://eyuapps.neocities.org/)** – Archived AI experiments, prototypes, and mini projects.
