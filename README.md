@@ -1,6 +1,6 @@
 # Hi, I'm Eyuel 👋
 
-📍 **Ethiopia** | 🤖 **AI & App Builder** | 🚀 **React Native & Automation Enthusiast**
+🤖 **AI & App Builder** | 🚀 **React Native & Automation Enthusiast**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
