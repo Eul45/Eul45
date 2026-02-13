@@ -26,6 +26,7 @@
 - 💻 **[EcodeX](https://ecodex-vsix.vercel.app/)** – Agentic AI for VS Code (Extension). Fast responses, clean diffs, and one-click apply so you can ship faster. 
 - 🔌 **[Firefox AI Add-on](https://github.com/Eul45/quick-dictionary-ai-explainer)** – Quick Dictionary + AI Explainer (Firefox add-on) with tooltip lookup + Gemini chat.
 - 💌 **[Telegram Dating Bot](https://github.com/Eul45/telegram-connect-bot)** – Full-featured Telegram dating bot with profiles, matching, messaging, and monetization via Telegram Stars. Built with Node.js, Telegraf, and MongoDB.
+- 📺 **[TeleStream Pro](https://github.com/Eul45/telestream-pro)** – Instant Telegram video streaming for Windows. Bridges Telegram cloud to VLC/Browser with full support for subtitles and multi-language audio tracks.
 
 - 📝 **[ZenCapture](https://zencapture.en.uptodown.com/windows)** – Fast Windows note-taking & quick capture app for your daily ideas.
 - ⚡ **[os-nerve](https://github.com/Eul45/os-nerve)** – Lightweight terminal dashboard that monitors your system vitals in real-time. Made for devs who live in the terminal.
