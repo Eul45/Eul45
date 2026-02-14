@@ -41,47 +41,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eul45&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eul45&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💡 What I’m Doing
-
-- **Building AI-first tools** – Experimenting with AI apps, CLI utilities, and automation stacks.
-- **Sharing learnings** – Documenting workflows, tips, and experiments on [eyuel.com.et/blog](https://www.eyuel.com.et/blog)
-- **Rapid prototyping** – Creating full apps in days, not months.
-
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [React Native AI App: From Idea to Deployment](https://www.eyuel.com.et/blog/react-native-ai-app)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Connect
 
 [![Telegram](https://img.shields.io/badge/-@Eul_zzz-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Eul_zzz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyuel-engida-77155a317/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/eul4525) 
 [![Portfolio](https://img.shields.io/badge/-eyuel.com.et-FF5722?style=flat-square)](https://www.eyuel.com.et)
-
-## 🏆 Recognition
-
-- Featured in **local tech newsletters & blogs**
-- Presented projects in Ethiopian developer meetups & online workshops
-- Built multiple AI apps & tools used by hundreds of users across platforms
-
-## 🎙️ Media & Talks
-
-- **[EyuX AI Demo Video](https://youtu.be/jWgqrGKBgxY?si=RQeHwHM4nkMPsG9V)** – Walkthrough of AI assistant for web and mobile
-- **[EcodeX VS Code Extension](https://youtu.be/eaP2iOjjFNw?si=adWYYHj5zF3t12OQ)** – Showing agentic AI in the editor
-
-## 🧠 Philosophy
-
-> "Build for yourself, share for the world." I create tools to solve my own problems and explore how AI can enhance productivity, prototyping, and automation.
-
-<details>
-<summary>Random Facts</summary>
-
-- Run multiple AI agents simultaneously for testing and experimentation
-- Passionate about exploring developer tools and automation workflows
-- Night owl coder
-- Love contributing to open-source projects and mentoring junior devs
-
-</details>
