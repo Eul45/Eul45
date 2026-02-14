@@ -1,6 +1,6 @@
 # Hi, I'm Eyuel 👋
 
-🤖 **AI & App Builder** | 🚀 **React Native & Automation Enthusiast**
+🤖 **AI & App Builder** | **React Native & Automation Enthusiast**
 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -17,7 +17,7 @@
 
   **[My Portfolio & Projects](https://www.eyuel.com.et/)** – exploring React Native apps, AI projects, and experimental tools.
 
-## 🚧 Current Projects
+## Current Projects
 
 - 🤖 **[EyuX AI](https://github.com/Eul45/EyuXbeta)** – AI-powered assistant for web, Android, and desktop with tools no standard chatbot has.
 - 🛠️ **[git-mood](https://github.com/EyuApp/git-mood)** – Command-line for developers; integrates Git + AI workflows.
