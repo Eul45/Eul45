@@ -26,9 +26,8 @@
 - 🔌 **[Firefox AI Add-on](https://github.com/Eul45/quick-dictionary-ai-explainer)** – Quick Dictionary + AI Explainer (Firefox add-on) with tooltip lookup + Gemini chat.
 - 💌 **[Telegram Dating Bot](https://github.com/Eul45/telegram-connect-bot)** – Full-featured Telegram dating bot with profiles, matching, messaging, and monetization via Telegram Stars. Built with Node.js, Telegraf, and MongoDB.
 - 📱 **[TeleManager](https://github.com/telemanager-app/telemanager)** – Bypass Telegram's 3-account limit on Windows. Manage and launch unlimited, isolated profiles simultaneously without a Premium subscription.
-- 📺 **[TeleStream Pro](https://github.com/Eul45/telestream-pro)** – Instant Telegram video streaming for Windows. Bridges Telegram cloud to VLC/Browser with full support for subtitles and multi-language audio tracks.
-
 - 📝 **[ZenCapture](https://zencapture.en.uptodown.com/windows)** – Fast Windows note-taking & quick capture app for your daily ideas.
+- 📺 **[TeleStream Pro](https://github.com/Eul45/telestream-pro)** – Instant Telegram video streaming for Windows. Bridges Telegram cloud to VLC/Browser with full support for subtitles and multi-language audio tracks.
 - ⚡ **[os-nerve](https://github.com/Eul45/os-nerve)** – Lightweight terminal dashboard that monitors your system vitals in real-time. Made for devs who live in the terminal.
 - 📱 **[ethio-helpers](https://github.com/Eul45/ethio-helpers)** – JS utility to validate & format Ethiopian mobile numbers (Ethio Telecom & Safaricom).
 - 🕸️ **[eyuel](https://github.com/Eul45/eyuelengida)** – Personal profile website.
