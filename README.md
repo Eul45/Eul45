@@ -22,7 +22,8 @@
 - 🤖 **[EyuX AI](https://github.com/Eul45/EyuXbeta)** – AI-powered assistant for web, Android, and desktop with tools no standard chatbot has.
 - 🛠️ **[git-mood](https://github.com/EyuApp/git-mood)** – Command-line for developers; integrates Git + AI workflows.
 - 🌐 **[Eyux Web](https://chat.eyux.com.et/)** – Web version of my AI app with 10+ exclusive features.
-- 💻 **[EcodeX](https://ecodex-vsix.vercel.app/)** – Agentic AI for VS Code (Extension). Fast responses, clean diffs, and one-click apply so you can ship faster. 
+- 💻 **[EcodeX](https://ecodex-vsix.vercel.app/)** – Agentic AI for VS Code (Extension). Fast responses, clean diffs, and one-click apply so you can ship faster.
+- 🔍 **[omni-search](https://github.com/Eul45/omni-search)** – High-performance Windows file indexer/search app using NTFS USN/MFT (Tauri + Rust + C++).
 - 🔌 **[Firefox AI Add-on](https://github.com/Eul45/quick-dictionary-ai-explainer)** – Quick Dictionary + AI Explainer (Firefox add-on) with tooltip lookup + Gemini chat.
 - 💌 **[Telegram Dating Bot](https://github.com/Eul45/telegram-connect-bot)** – Full-featured Telegram dating bot with profiles, matching, messaging, and monetization via Telegram Stars. Built with Node.js, Telegraf, and MongoDB.
 - 📱 **[TeleManager](https://github.com/telemanager-app/telemanager)** – Bypass Telegram's 3-account limit on Windows. Manage and launch unlimited, isolated profiles simultaneously without a Premium subscription.
