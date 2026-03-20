@@ -26,6 +26,7 @@
 - 💻 **[EyuX AI - Workspace](https://apps.microsoft.com/detail/9NX5DBW6NHW1?hl=en-us&gl=US&ocid=pdpshare)** – Desktop version of my AI app on microsoft store with more features.
 - 🔌 **[Firefox AI Add-on](https://github.com/Eul45/quick-dictionary-ai-explainer)** – Quick Dictionary + AI Explainer (Firefox add-on) with tooltip lookup + Gemini chat.
 - 💌 **[Telegram Dating Bot](https://github.com/Eul45/telegram-connect-bot)** – Full-featured Telegram dating bot with profiles, matching, messaging, and monetization via Telegram Stars. Built with Node.js, Telegraf, and MongoDB.
+- 📋 **[OmniClip](https://apps.microsoft.com/detail/9N53Z3QVL322)** – Pro-grade, searchable clipboard workspace for Windows. Features persistent SQLite history, image previews, and instant hotkey access. Built with Tauri 2.0 + Rust.
 - 📱 **[TeleManager](https://github.com/telemanager-app/telemanager)** – Bypass Telegram's 3-account limit on Windows. Manage and launch unlimited, isolated profiles simultaneously without a Premium subscription.
 - 📝 **[ZenCapture](https://zencapture.en.uptodown.com/windows)** – Fast Windows note-taking & quick capture app for your daily ideas.
 - 📺 **[TeleStream Pro](https://github.com/Eul45/telestream-pro)** – Instant Telegram video streaming for Windows. Bridges Telegram cloud to VLC/Browser with full support for subtitles and multi-language audio tracks.
